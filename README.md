@@ -1,4 +1,10 @@
 # Python & AI Learning Path 🚀
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange)
+![GitHub](https://img.shields.io/badge/GitHub-OpenSource-green)
+![Status](https://img.shields.io/badge/Status-Learning-yellow)
+
 > 从 Python 基础到 AI 实战 · 一年开源成长计划
 
 本仓库记录我从 Python 基础薄弱开始，系统性学习 Python、算法、数据处理、深度学习、LLM，并持续向开源社区贡献的全过程。
