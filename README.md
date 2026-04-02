@@ -7,17 +7,21 @@
 ---
 
 ## 📁 仓库结构
+
+```text
 .
-├── 01-python-basic/ # Python 基础语法练习
-├── 02-python-advanced/ # 进阶、并发、性能优化
-├── 03-algorithm/ # 算法与数据结构
-├── 04-numpy-pandas/ # 数据处理
-├── 05-machine-learning/ # 传统机器学习
-├── 06-deep-learning/ # PyTorch / CNN / Transformer
-├── 07-llm-finetune/ # 大模型微调、推理、部署
-├── 08-open-source-prs/ # 开源贡献记录
-└── projects/ # 个人独立项目
+├── 01-python-basic/       # Python 基础语法练习
+├── 02-python-advanced/    # 进阶、并发、性能优化
+├── 03-algorithm/          # 算法与数据结构
+├── 04-numpy-pandas/       # 数据处理
+├── 05-machine-learning/   # 传统机器学习
+├── 06-deep-learning/      # PyTorch / CNN / Transformer
+├── 07-llm-finetune/       # 大模型微调、推理、部署
+├── 08-open-source-prs/    # 开源贡献记录
+└── projects/              # 个人独立项目
 ---
+
+```
 
 ## 🎯 学习进度
 
